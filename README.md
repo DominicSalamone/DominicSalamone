@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Dominic Salamone, and I'm currently studying Computer Science at college. I aspire to one day get a carrer as a computer programmer, or a game designer. 
+- My name is Dominic Salamone, and I'm currently studying Computer Science at college. I aspire to one day get a carrer as a computer programmer, or a game designer.
+- I have a burning passion towards video games and learning how they are made.
 <!--
 **DominicSalamone/DominicSalamone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
